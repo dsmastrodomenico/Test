@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="name">Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="note1">Note 1</string>
+    <string name="note2">Note 2</string>
+    <string name="note3">Note 3</string>
+    <string name="finalNote">Final Note</string>
+    <string name="save">Save</string>
+    <string name="mesage_error">Please Fill All The Info</string>
+
+
+    <string-array name="Menu">
+    <item> @string/create</item>
+    <item> @string/show</item>
+    </string-array>
+    <string name="create">Create student</string>
+    <string name="show">Show students</string>
+    <string name="done">Student created</string>
+    <string name="no_resoult">void list</string>
+</resources>

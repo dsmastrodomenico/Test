@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">quiz</string>
+    <string name="name">nombre</string>
+    <string name="lastName">apellido</string>
+    <string name="note1">nota 1</string>
+    <string name="note2">nota 2</string>
+    <string name="note3">nota 3</string>
+    <string name="finalNote">nota final</string>
+    <string name="save">guardar</string>
+    <string name="mesage_error">rellene todos los campos</string>
+    <string name="create">crear estudiante</string>
+    <string name="show">mostrar lista</string>
+    <string name="done">estudiante creado</string>
+    <string name="no_resoult">lista vacia</string>
+</resources>
